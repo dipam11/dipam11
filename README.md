@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipam11
+- 👋 Hi, I’m Dipam Patle
 - 👀 I’m interested in UI/UX Designing
 - 🌱 I’m currently learning Web Devlopment
 - 💞️ I’m looking to collaborate on UI/UX Dssign
