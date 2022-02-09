@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dipam Patle
-- 👀 I’m interested in UI/UX Designing
-- 🌱 I’m currently learning Web Devlopment
-- 💞️ I’m looking to collaborate on UI/UX Dssign
+- 👀 I’m interested in Web Development and  UI/UX Designing
+- 💞️ I’m looking to collaborate on Web Development Project
 - 📫 How to reach me dipamjp99@gmail.com
 
 <!---
