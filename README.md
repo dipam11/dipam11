@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipam Patle
-- 👀 I’m a Frontend Developer and also intrested in UI/UX Designing
+- 👀 I’m a Developer and also intrested in UI/UX Designing
 - 💞️ I'm currently developing my MERN stack skills
 - 📫 How to reach me dipamjp99@gmail.com
 
